@@ -1,1 +1,2 @@
-# LBPH_Face_Recognition-main2
+# LBPH_Face_Recognition
+Used Local Binary Pattern Histogram for Face Recognition
